@@ -15,16 +15,17 @@
 
 </div>
 
- Complete Theory of **DBMS**, **SQL**, **Normalization**, **Transaction And Concurrency Protocols** , **Relational Algebra** , **File Organization**and Other Related topics  :)
+ Complete Theory of **DBMS**, **SQL**, **Normalization**, **Transaction And Concurrency Protocols** , **Relational Algebra** , **File Organization** and Other Related topics  :)
 
  ## Platform 👇
 
+-[GFG](https://www.geeksforgeeks.org/dbms/)
+
+-[YouTube](https://www.youtube.com/)
 
 -[Pepcoding](https://www.pepcoding.com/)
 
 -[Nados](https://nados.pepcoding.com/)
-
--[Leetcode](https://leetcode.com/)
 
 -[Visual Studio code editor](https://code.visualstudio.com/)
 
@@ -44,4 +45,4 @@
 <img align="center" alt="GIF" src="images/3.jpg" width="100%" height="320" />
 
 ## Relationship
-
+<img align="center" alt="GIF" src="images/4.jpg" width="100%" height="320" />
