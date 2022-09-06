@@ -35,14 +35,23 @@
  💼 if you have any doubt? do reach, [email](mailto:mukeshdani00@gmail.com) :)
 
 ## Introduction: 
-<img align="center" alt="GIF" src="images/1.jpg" width="100%" height="600" />
+<img align="center" alt="GIF" src="images/1.jpg" width="100%" height="800" />
 
 
-<img align="center" alt="GIF" src="images/2.jpg" width="100%" height="600" />
+<img align="center" alt="GIF" src="images/2.jpg" width="100%" height="800" />
 
 
 
-<img align="center" alt="GIF" src="images/3.jpg" width="100%" height="600" />
+<img align="center" alt="GIF" src="images/3.jpg" width="100%" height="800" />
 
 ## Relationship
-<img align="center" alt="GIF" src="images/4.jpg" width="100%" height="600" />
+<img align="center" alt="GIF" src="images/4.1.jpg" width="100%" height="800" />
+
+<img align="center" alt="GIF" src="images/4.2.jpg" width="100%" height="800" />
+
+<img align="center" alt="GIF" src="images/5.jpg" width="100%" height="800" />
+
+<img align="center" alt="GIF" src="images/6.jpg" width="100%" height="800" />
+
+
+<img align="center" alt="GIF" src="images/7.jpg" width="100%" height="800" />
